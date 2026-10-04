@@ -1,0 +1,12 @@
+# What should be ignored when pushed to GitHub 
+# Cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+.env
+
+# Streamlit secrets
+.streamlit/secrets.tomlgi
