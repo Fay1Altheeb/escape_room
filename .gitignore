@@ -10,3 +10,7 @@ venv/
 
 # Streamlit secrets
 .streamlit/secrets.tomlgi
+
+
+# Backup assets
+assets/images/room_1/backup/
